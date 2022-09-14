@@ -1,0 +1,12 @@
+{
+    "type" : "record",
+    "name" : "PubSubAvroMessage",
+    "fields" : [{
+        "name" : "string_value",
+        "type" : "string"
+    },{
+        "name" : "long_value",
+        "type" : "long"
+    }]
+
+}

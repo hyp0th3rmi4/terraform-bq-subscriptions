@@ -1,0 +1,21 @@
+[{
+    "name" : "string_value",
+    "type" : "STRING",
+    "mode" : "REQUIRED",
+    "description" : "Test mapping for strings"
+},{
+    "name" : "int_value",
+    "type" : "INT64",
+    "mode" : "REQUIRED",
+    "description" : "Test mapping for int values"
+},{
+    "name" : "bool_value",
+    "type" : "BOOL",
+    "mode" : "REQUIRED",
+    "description" : "Test mapping for bool values"
+},{
+    "name" : "string_array",
+    "type" : "STRING",
+    "mode" : "REPEATED",
+    "description" : "Test mapping for array values"
+}]
